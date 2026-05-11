@@ -10,7 +10,7 @@ Este documento contiene una breve presentación según condiciona el trabajo pr�
 
 -**Cantidad de materias en curso:** 5
 
--**Cantidad de materias al día:** 1
+-**Cantidad de materias al día:** 1 😄
 
 
 ## Datos Curiosos ##
